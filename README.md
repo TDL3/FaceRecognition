@@ -1,5 +1,5 @@
 # FaceRecognition
-Face recgnition based on OoenCV
+Face recgnition based on OpenCV
 
 ## Usage
 
