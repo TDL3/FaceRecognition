@@ -1,5 +1,5 @@
 .vscode
 vendor
 test
-trained_model/*
-dataset/*
+trained_model/*.yml
+dataset/*.png
